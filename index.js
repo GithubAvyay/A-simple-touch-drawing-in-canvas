@@ -11,11 +11,11 @@ const state = {
 // ===================
 // == Configuration ==
 // ===================
-const lineWidth = 20;
+const lineWidth = 5;
 const halfLineWidth = lineWidth / 2;
-const fillStyle = '#333';
-const strokeStyle = '#333';
-const shadowColor = '#333';
+const fillStyle = 'red';
+const strokeStyle = 'blue';
+const shadowColor = 'green';
 const shadowBlur = lineWidth / 4;
 
 // =====================
